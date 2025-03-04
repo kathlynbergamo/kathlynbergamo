@@ -33,4 +33,4 @@ Bem-vindo ao meu GitHub! Aqui você encontrará projetos que refletem minha jorn
 📩 **Email:** kathlynbergamo2021@gmail.com  
 💼 **LinkedIn:** [Kathlyn da Silva Bergamo](https://www.linkedin.com/in/kathlyn-da-silva-bergamo-5b865b264/)
 
-![Gatinho Codando](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" height="auto">
