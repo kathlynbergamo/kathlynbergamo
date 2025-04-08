@@ -1,36 +1,62 @@
-# 👋 Olá, eu sou a Kathlyn Bergamo!
+# Olá! Eu sou a Kathlyn Bergamo 👋  
+🚀 Desenvolvedora Front-end | 🎨 UI/UX Designer | 💻 Apaixonada por Código & Criatividade
 
-🚀 **Desenvolvedora Web | UI/UX Designer | Estudante Apaixonada por Código**
+Seja muito bem-vindo(a) ao meu GitHub!  
+Aqui você encontra uma vitrine de projetos que marcam minha evolução na área de desenvolvimento web, sempre com foco em **performance**, **usabilidade** e **design**.
 
-Bem-vindo ao meu GitHub! Aqui você encontrará projetos que refletem minha jornada como desenvolvedora e meu aprendizado contínuo no mundo do desenvolvimento web.
 
 ## 🌟 Sobre mim
+- 💼 **Estagiária na OKN**, contribuindo no desenvolvimento de interfaces modernas e funcionais  
+- 📚 Estudando e me aprofundando em **JavaScript, HTML, CSS, SASS, WordPress**  
+- ⚛️ Focada em aprimorar meus conhecimentos em **React** e **TypeScript** para criar aplicações mais robustas e dinâmicas  
+- 🎨 Também atuo como **UI/UX Designer**, criando experiências digitais intuitivas e acessíveis  
+- 🌐 Curiosa por novas tendências e tecnologias, estou sempre aprendendo algo novo!
 
-- 💻 Atualmente sou estagiária na **OKN**, onde desenvolvo telas para projetos digitais;
-- 📚 Estudo **JavaScript, HTML, CSS, SASS, WordPress** e estou sempre explorando novas tecnologias;
-- 🎯 Meu foco atual é aprimorar minhas habilidades em **React, TypeScript**;
-- 🎨 Atuo também como **UI/UX Designer**, criando interfaces intuitivas e acessíveis;
 
-## 🚀 Tecnologias e Ferramentas
+## 💻 Tecnologias e Ferramentas
 
-📌 **Front-end:**
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white)
+### 🧩 Front-end  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40px"/>
+</p>
 
-📌 **CMS & Ferramentas:**
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+### 🔧 CMS & Ferramentas  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px"/>
+</p>
 
-📌 **Em aprendizado:**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) 
+### 📘 Em aprendizado  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40px"/>
+</p>
 
-## 📌 Projetos em Destaque
 
-✨ **[Bikcraft](https://kathlynbergamo.github.io/Bikcraft/)** - Um site responsivo para bicicletas feitas sobre medidas, desenvolvido com HTML, CSS e JavaScript.
+## 🌟 Projetos em Destaque
 
-✨ **[Portifólio Kathlyn](https://kathlynbergamo.github.io/my-portifolio/)** - Uma breve apresentação sobre meus conhecimentos e estudos, projeto em andamento.
+🔹 **Bikcraft**  
+📱 Site responsivo para uma marca fictícia de bicicletas personalizadas.  
+💡 Criado com **HTML, CSS e JavaScript**, com foco em performance e design responsivo.
 
-## 📬 Onde me encontrar
+🔹 **Portfólio Pessoal**  
+🌐 Uma vitrine dos meus conhecimentos, estudos e projetos.  
+🎯 Desenvolvido com atenção especial à estética e usabilidade.  
+🛠️ *(Projeto em constante evolução!)*
 
-📩 **Email:** kathlynbergamo2021@gmail.com  
-💼 **LinkedIn:** [Kathlyn da Silva Bergamo](https://www.linkedin.com/in/kathlyn-da-silva-bergamo-5b865b264/)
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" height="auto">
+## 📬 Vamos nos conectar?
+
+📧 **Email**: [kathlynbergamo2021@gmail.com](mailto:kathlynbergamo2021@gmail.com)  
+💼 **LinkedIn**: [Kathlyn da Silva Bergamo](https://www.linkedin.com/in/kathlyn-da-silva-bergamo)
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" alt="coding-cat" />
+</p>
